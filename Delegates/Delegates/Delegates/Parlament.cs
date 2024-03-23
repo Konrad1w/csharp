@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cw2Delegaty
+namespace ParlamentN
 {
 	public delegate void Notify();
 	public delegate void Notify1(bool glos);
